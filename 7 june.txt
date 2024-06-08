@@ -1,0 +1,9 @@
+dynamic programming
+(store solution in some container)
+>divide and conquer
+>memoization
+>greedy algo
+>recursion	
+napsac problem
+graph problem 
+regular expression

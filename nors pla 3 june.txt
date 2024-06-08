@@ -1,0 +1,10 @@
+notes pla 3rd june
+
+
+VITBHOPAL Hacker rank contest:
+Count Number of Nodes in tree
+print preorder traversal(2)
+h.w: diameter for binary tree (2) - backtracking/recursion/alternative
+implement BST(insert search delete printTree)
+try; 
+Minimum no. of d eletions
