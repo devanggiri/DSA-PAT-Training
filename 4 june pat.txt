@@ -1,0 +1,36 @@
+types of binary tree
+
+Full Binary Tree- every node has 0 or 2 children
+Degenerate Binary Tree - every internal node has one child
+Skewed Binary Trees - the tree is either dominated by the left nodes or the right nodes
+Complete Binary Tree -  all the levels are completely filled except possibly the last level and the last level has all keys as left as possible.
+Perfect Binary Tree - all the internal nodes have two children and all leaf nodes are at the same level. 
+Balanced Binary Tree  - the height of the tree is O(Log n) where n is the number of nodes.
+
+
+#GRAPHS
+undirected - travel both the sides
+direccted- direction dependent travel
+cyclic - form any type of cycle/circle (reach to initial vertex again after complete traversal)
+ascyclic - irregular
+weighted graph - edges hold some value (used to calculate distance)
+un-connected graphs
+
+#representation of graphs:
+1) Adjacentary Matrix: matrix size = no. of vertices (eg, 5 vertice = 5x5 matrix) (fill the values with respect to the connection present in graph, rest 0, eg: Q values table)
+2) List representation: create lists for each vertices/index and write their connections (0>{2,3}, 1>{3}, 2>{0,4},etc.)
+
+
+ques: hacker rank vit bhopal contest
+adjacentary matrix representation
+adjacency list representation
+BFS traversal(1)
+GCD
+Tree(connected undirected graph, return min no of litred of fuel to reach the capital city)
+
+
+
+
+
+
+

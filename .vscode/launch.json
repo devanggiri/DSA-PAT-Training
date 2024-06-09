@@ -1,0 +1,92 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RightViewBinTree",
+            "request": "launch",
+            "mainClass": "RightViewBinTree",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "diameterbintree",
+            "request": "launch",
+            "mainClass": "diameterbintree",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "diameterofbintree",
+            "request": "launch",
+            "mainClass": "diameterofbintree",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "rightviewbintree",
+            "request": "launch",
+            "mainClass": "rightviewbintree",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingQueues",
+            "request": "launch",
+            "mainClass": "StackUsingQueues",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "mergeksortedlinkedlist",
+            "request": "launch",
+            "mainClass": "mergeksortedlinkedlist",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "stackfromqueue",
+            "request": "launch",
+            "mainClass": "stackfromqueue",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "ksortedlinkedlist",
+            "request": "launch",
+            "mainClass": "ksortedlinkedlist",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "stackfromarray",
+            "request": "launch",
+            "mainClass": "stackfromarray",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
+            "name": "DifferentBrackets",
+            "request": "launch",
+            "mainClass": "DifferentBrackets",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        }
+    ]
+}
