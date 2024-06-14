@@ -1,0 +1,5 @@
+char vs varchar
+eg: char(50) AND VARCHAR(50);
+CHAR: INEFFICIENT MEMORY ALLOCATION, eg: it will reserve 50 BYTES, eventhough our string is holding 10 bytes, the rest 40 will be alocated and holding up the memory. (HOLDING EXTRA SPACE)
+while in 
+VARCHAR: it works on variability: will occupy space acc to the requirement, within its defined range. VARIABLE MEMORY ALLOCATION
