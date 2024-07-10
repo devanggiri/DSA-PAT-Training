@@ -1,0 +1,11 @@
+n queen
+combination seq
+no of characters
+substring
+
+
+dynamic programming
+backtracking
+house robber (dp)
+longest common subsequence
+longgest palindrome subsequence
